@@ -3,7 +3,7 @@ class Dog:
 	def __init__(self,name):
 		self.name = name #instance variable
 	def modificaKind(self,value):
-		self.kind = str(value) #self.kind e kind sono la stessa cosa
+		self.kind = str(value) 
 	def __str__(self):
 		return "This Pet's name is "+ str(self.name)
 d = Dog('Fido')
