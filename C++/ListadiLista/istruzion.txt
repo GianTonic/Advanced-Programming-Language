@@ -1,0 +1,1 @@
+g++ nodoGiocatore.cpp nodoSquadra.cpp nodoCampionato.cpp main.cpp

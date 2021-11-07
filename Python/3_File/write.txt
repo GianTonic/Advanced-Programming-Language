@@ -1,0 +1,1 @@
+I'm writing on file write.txt
